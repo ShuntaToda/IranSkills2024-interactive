@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.color-black {
+  color: black;
+}
+
+.color-white {
+  color: white;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.bg-primary {
+  background-color: rgb(238 101 77);
+}
+
+.bg-secondary {
+  background-color: rgb(217 92 70);
+}
+
+.fs-4rem {
+  font-size: 4rem
+}
+
+.fs-3rem {
+  font-size: 3rem
+}
+
+.my-3rem {
+  margin: 3rem 0;
+}
+
+.my-2rem {
+  margin: 2rem 0;
+}
